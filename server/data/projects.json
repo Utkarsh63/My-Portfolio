@@ -1,0 +1,22 @@
+[
+    {
+        "name": "KumbhSync",
+        "description": "A real-time volunteer orchestration platform built for Mahakumbh. It reduces emergency dispatch overhead by 40% using an automated matching algorithm, and streams live incident metrics with sub-100ms latency.",
+        "technologies": ["React", "Node.js", "Socket.io", "Prisma", "SQLite", "Vercel", "Render"],
+        "type": "Full-Stack Web App",
+        "image": "/kumbhsync-screenshot.png",
+        "link": "https://kumbh-sync.vercel.app",
+        "github": "https://github.com/Utkarsh63/KumbhSync.git",
+        "sNo": 1
+    },
+    {
+        "name": "Project Management API",
+        "description": "A production-grade RESTful API designed with MVC architecture to manage projects, task assignments, and notes. It features robust role-based access control (Admin/Member) and is secured with JWT authentication, refresh token rotation, and email verification. Data retrieval is highly optimized using MongoDB aggregation pipelines to reduce complex multi-collection query overhead.",
+        "technologies": ["Node.js", "Express.js", "MongoDB", "JWT", "Postman"],
+        "type": "Backend API",
+        "image": "/api-screenshot.png",
+        "link": "",
+        "github": "https://github.com/Utkarsh63/project-management-api.git",
+        "sNo": 2
+    }
+]

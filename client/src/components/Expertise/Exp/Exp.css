@@ -1,0 +1,83 @@
+.exp {
+    width: 80%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.exp h2,
+.exp h3,
+.exp h4 {
+    letter-spacing: 1px;
+}
+
+.exp a {
+    color: var(--dark);
+    margin-left: 10px;
+}
+
+.exp__date {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    color: var(--text-light);
+    margin-top: 10px;
+}
+
+.exp__date span:nth-child(2) {
+    width: 50px;
+    border-top: 3px solid var(--text-light);
+    margin: 0 10px;
+}
+
+.exp p {
+    margin: 15px 0;
+    color: var(--text-light);
+    font-weight: 600;
+}
+
+.exp ul li {
+    margin: 5px 0;
+    color: var(--dark);
+    color: var(--text-light);
+    font-weight: 600;
+}
+
+.exp > span.line {
+    width: 50%;
+    border-top: 3px solid var(--dark);
+    height: 50px;
+    margin-top: 30px;
+}
+
+.exp > div.at {
+    color: var(--text-light);
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 10px 0;
+    padding-left: 5px;
+    border-left: 3px solid var(---dark);
+    border-left: 4px solid var(--dark);
+}
+
+.exp__viewCertificate {
+    letter-spacing: 1px;
+    color: var(--dark);
+    font-weight: 700;
+    margin-top: 10px;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    width: fit-content;
+    padding-bottom: 4px;
+    transition: all 0.3s ease;
+}
+
+.exp__viewCertificate:hover {
+    border-color: var(--dark);
+}
+
+@media (max-width: 700px) {
+    .exp > span.line {
+        width: 80%;
+    }
+}
