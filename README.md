@@ -1,4 +1,4 @@
 # Utkarsh Singh — Portfolio
 
-[LinkedIn](#)
-[GitHub](https://github.com/Utkarsh63)
+[Live](https://utkarsh25.vercel.app/)
+
