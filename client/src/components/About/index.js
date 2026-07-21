@@ -25,7 +25,7 @@ const About = () => {
 				<h4>I studied</h4>
 				<h3>B.Tech Computer Science</h3>
 				<p>from</p>
-				<h1>Vellore Institute of Technology, Bhopal</h1>
+				<h1>Vellore Institute of Technology</h1>
 				<div className='about__eduDate'>
 					<span>2023</span>
 					<span></span>

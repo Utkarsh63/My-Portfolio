@@ -32,7 +32,7 @@ const Home = () => {
 					<span>r</span>
 				</p>
 				<p className='home__intro'>
-					I'm a Computer Science student at VIT Bhopal building full-stack applications that solve real coordination and workflow problems. Currently working with React, Node.js, and MongoDB, with a growing focus on real-time systems and backend architecture.
+					I'm a Computer Science student at VIT building full-stack applications that solve real coordination and workflow problems. Currently working with React, Node.js, and MongoDB, with a growing focus on real-time systems and backend architecture.
 				</p>
                 <div className='home__btns'>
                     <Link to='/projects'>View Projects</Link>
