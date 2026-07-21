@@ -39,7 +39,7 @@ const Home = () => {
                     <span>or</span>
                     <Link to='/about'>Know Me</Link>
                 </div>
-                    <a href='https://drive.google.com/file/d/1bnEsrKTOme_zLpjb-QbuGZIId5kA5CXx/view?usp=sharing' className='home__resume' target='_blank' rel='noopener noreferrer' title={`Utkarsh Singh Resume`}>
+                    <a href='https://drive.google.com/file/d/1n2HOu8cn4v2O4s8Mx2loTGfczi6RDKty/view?usp=sharing' className='home__resume' target='_blank' rel='noopener noreferrer' title={`Utkarsh Singh Resume`}>
                     View My Resume
                 </a>
             </div>

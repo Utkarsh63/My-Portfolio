@@ -16,7 +16,7 @@ const About = () => {
 				<p>Myself,</p>
 				<h1>Utkarsh Singh</h1>
 				<h4>B.Tech CSE Student & Full-Stack Developer</h4>
-				<p>I'm Utkarsh, a B.Tech Computer Science student at VIT Bhopal (2023–2027) with a deep passion for software engineering. I specialize in developing scalable, full-stack web applications and thrive on solving complex technical challenges. I am dedicated to continuously expanding my skill set, whether through competitive programming, exploring robust backend systems, or contributing to creative design initiatives. Apart from this, I love to play Cricket.</p>
+				<p>I'm Utkarsh, a B.Tech Computer Science student at VIT (2023–2027) with a deep passion for software engineering. I specialize in developing scalable, full-stack web applications and thrive on solving complex technical challenges. I am dedicated to continuously expanding my skill set, whether through competitive programming, exploring robust backend systems, or contributing to creative design initiatives. Apart from this, I love to play Cricket.</p>
 			</div>
 
 			<span className='line'></span>
